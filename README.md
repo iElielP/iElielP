@@ -2,13 +2,29 @@
 
 # Brandon Eliel Pared
 
-**Desarrollador Full Stack** | JavaScript • TypeScript • React • Next.js • Laravel • C# • SQL
+### Desarrollador Full Stack
+
+**JavaScript • TypeScript • React • Next.js • Laravel • C# • SQL**
 
 <br>
 
-![Location](https://img.shields.io/badge/📍_Buenos_Aires,_Argentina-181717?style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandonpared)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/iElielP)
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Buenos_Aires,_Argentina-E4405F?style=for-the-badge&logoColor=white" alt="Location"/>
+</td>
+<td align="center" width="33%">
+<a href="https://www.linkedin.com/in/brandonpared">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/iElielP">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -116,15 +132,17 @@ graph LR
 ## Estadísticas de GitHub
 
 <div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iElielP&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9)](https://git.io/streak-stats)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iElielP&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
 
 </div>
 
+<br>
+
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iElielP&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iElielP&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iElielP&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&count_private=true" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iElielP&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Top Languages" />
 
 </div>
 
@@ -136,13 +154,29 @@ graph LR
 
 Estoy abierto a oportunidades profesionales, colaboraciones técnicas y proyectos desafiantes.
 
+</div>
+
 <br>
 
-[![Email](https://img.shields.io/badge/Email-eliel.bep%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliel.bep@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-brandonpared-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandonpared)
-[![GitHub](https://img.shields.io/badge/GitHub-iElielP-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iElielP)
-
-</div>
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<a href="mailto:eliel.bep@gmail.com">
+<img src="https://img.shields.io/badge/Email-eliel.bep%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+</td>
+<td align="center" width="33%">
+<a href="https://www.linkedin.com/in/brandonpared">
+<img src="https://img.shields.io/badge/LinkedIn-brandonpared-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/iElielP">
+<img src="https://img.shields.io/badge/GitHub-iElielP-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+</td>
+</tr>
+</table>
 
 ---
 
