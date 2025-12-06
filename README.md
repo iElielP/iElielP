@@ -96,33 +96,22 @@ const skills = {
 
 ## Roadmap de Aprendizaje
 
-### Tecnologías en proceso de incorporación
-
-```text
-Node.js + Express        ████████████████████  90%
-Next.js Advanced         ████████████████░░░░  80%
-Docker / CI-CD           ███████████████░░░░░  75%
-JWT / OAuth              █████████████░░░░░░░  65%
-Jest / PHPUnit           ████████████░░░░░░░░  60%
-Clean Architecture       ███████████░░░░░░░░░  55%
-GraphQL                  ████████░░░░░░░░░░░░  40%
-Microservicios           ██████░░░░░░░░░░░░░░  30%
-```
-
 <div align="center">
 
-| Tecnología | Nivel | Estado |
-|:-----------|:-----:|:------:|
-| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) **Node.js + Express** | 90% | 🟢 Avanzado |
-| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) **Next.js Advanced** | 80% | 🟢 Avanzado |
-| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) **Docker / CI-CD** | 75% | 🟡 Intermedio |
-| ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) **JWT / OAuth** | 65% | 🟡 Intermedio |
-| ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white) **Jest / PHPUnit** | 60% | 🟡 Intermedio |
-| ![Architecture](https://img.shields.io/badge/Clean_Arch-4A90E2?style=flat-square) **Clean Architecture** | 55% | 🟡 Intermedio |
-| ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) **GraphQL** | 40% | 🟠 Básico |
-| ![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=flat-square) **Microservicios** | 30% | 🟠 Básico |
+### 🎯 Tecnologías en desarrollo
 
 </div>
+
+| Tecnología | Progreso | Nivel |
+|:-----------|:---------|:-----:|
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) **Node.js + Express** | ![](https://geps.dev/progress/90?dangerColor=339933&warningColor=339933&successColor=339933) | ![](https://img.shields.io/badge/Avanzado-339933?style=flat-square) |
+| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) **Next.js Advanced** | ![](https://geps.dev/progress/80?dangerColor=000000&warningColor=000000&successColor=000000) | ![](https://img.shields.io/badge/Avanzado-339933?style=flat-square) |
+| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) **Docker / CI-CD** | ![](https://geps.dev/progress/75?dangerColor=2496ED&warningColor=2496ED&successColor=2496ED) | ![](https://img.shields.io/badge/Intermedio-FFA500?style=flat-square) |
+| ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) **JWT / OAuth** | ![](https://geps.dev/progress/65?dangerColor=000000&warningColor=000000&successColor=000000) | ![](https://img.shields.io/badge/Intermedio-FFA500?style=flat-square) |
+| ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) **Jest / PHPUnit** | ![](https://geps.dev/progress/60?dangerColor=C21325&warningColor=C21325&successColor=C21325) | ![](https://img.shields.io/badge/Intermedio-FFA500?style=flat-square) |
+| ![Architecture](https://img.shields.io/badge/Clean_Architecture-4A90E2?style=for-the-badge) **Clean Architecture** | ![](https://geps.dev/progress/55?dangerColor=4A90E2&warningColor=4A90E2&successColor=4A90E2) | ![](https://img.shields.io/badge/Intermedio-FFA500?style=flat-square) |
+| ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) **GraphQL** | ![](https://geps.dev/progress/40?dangerColor=E10098&warningColor=E10098&successColor=E10098) | ![](https://img.shields.io/badge/Básico-FF6B6B?style=flat-square) |
+| ![Microservices](https://img.shields.io/badge/Microservicios-FF6B6B?style=for-the-badge) **Microservicios** | ![](https://geps.dev/progress/30?dangerColor=FF6B6B&warningColor=FF6B6B&successColor=FF6B6B) | ![](https://img.shields.io/badge/Básico-FF6B6B?style=flat-square) |
 
 **Enfoque actual:**
 - 🎯 Fortaleciendo habilidades en Node.js, testing automatizado y arquitecturas escalables
