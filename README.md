@@ -98,35 +98,31 @@ const skills = {
 
 ### Tecnologías en proceso de incorporación
 
-<table>
-<tr><td>
+```text
+Node.js + Express        ████████████████████  90%
+Next.js Advanced         ████████████████░░░░  80%
+Docker / CI-CD           ███████████████░░░░░  75%
+JWT / OAuth              █████████████░░░░░░░  65%
+Jest / PHPUnit           ████████████░░░░░░░░  60%
+Clean Architecture       ███████████░░░░░░░░░  55%
+GraphQL                  ████████░░░░░░░░░░░░  40%
+Microservicios           ██████░░░░░░░░░░░░░░  30%
+```
 
-**Node.js + Express**  
-![90%](https://progress-bar.dev/90?title=Progreso&width=500&color=339933)
+<div align="center">
 
-**Next.js Advanced**  
-![80%](https://progress-bar.dev/80?title=Progreso&width=500&color=000000)
+| Tecnología | Nivel | Estado |
+|:-----------|:-----:|:------:|
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) **Node.js + Express** | 90% | 🟢 Avanzado |
+| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) **Next.js Advanced** | 80% | 🟢 Avanzado |
+| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) **Docker / CI-CD** | 75% | 🟡 Intermedio |
+| ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) **JWT / OAuth** | 65% | 🟡 Intermedio |
+| ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white) **Jest / PHPUnit** | 60% | 🟡 Intermedio |
+| ![Architecture](https://img.shields.io/badge/Clean_Arch-4A90E2?style=flat-square) **Clean Architecture** | 55% | 🟡 Intermedio |
+| ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) **GraphQL** | 40% | 🟠 Básico |
+| ![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=flat-square) **Microservicios** | 30% | 🟠 Básico |
 
-**Docker / CI-CD**  
-![75%](https://progress-bar.dev/75?title=Progreso&width=500&color=2496ED)
-
-**JWT / OAuth**  
-![65%](https://progress-bar.dev/65?title=Progreso&width=500&color=000000)
-
-**Jest / PHPUnit**  
-![60%](https://progress-bar.dev/60?title=Progreso&width=500&color=C21325)
-
-**Clean Architecture**  
-![55%](https://progress-bar.dev/55?title=Progreso&width=500&color=4A90E2)
-
-**GraphQL**  
-![40%](https://progress-bar.dev/40?title=Progreso&width=500&color=E10098)
-
-**Microservicios**  
-![30%](https://progress-bar.dev/30?title=Progreso&width=500&color=FF6B6B)
-
-</td></tr>
-</table>
+</div>
 
 **Enfoque actual:**
 - 🎯 Fortaleciendo habilidades en Node.js, testing automatizado y arquitecturas escalables
