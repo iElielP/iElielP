@@ -145,6 +145,8 @@ Destaco por mi pensamiento analítico, capacidad de resolución de problemas té
 
 </div>
 
+---
+
 **🎯 Áreas de experiencia:**
 
 - Desarrollo de aplicaciones web full stack con integración completa frontend-backend
@@ -175,7 +177,9 @@ Destaco por mi pensamiento analítico, capacidad de resolución de problemas té
 
 </div>
 
-### 📝 Aprendizajes y Avances Recientes
+---
+
+## 📝 Aprendizajes y Avances Recientes
 
 **Node.js + Express (90%)**
 - Desarrollo de APIs RESTful con arquitectura escalable
