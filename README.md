@@ -179,32 +179,6 @@ Destaco por mi pensamiento analítico, capacidad de resolución de problemas té
 
 ---
 
-## 📝 Aprendizajes y Avances Recientes
-
-**Node.js + Express (90%)**
-- Desarrollo de APIs RESTful con arquitectura escalable
-- Implementación de middleware personalizados y manejo de errores
-- Integración con bases de datos SQL y MongoDB
-- Autenticación y autorización con JWT
-
-**Next.js Advanced (80%)**
-- Server-Side Rendering (SSR) y Static Site Generation (SSG)
-- API Routes y optimización de rendimiento
-- Integración con headless CMS y servicios externos
-- Deployment en Vercel con CI/CD
-
-**Docker / CI-CD (75%)**
-- Containerización de aplicaciones full stack
-- Configuración de Docker Compose para entornos multi-servicio
-- Implementación de pipelines de integración continua
-- Automatización de deploys con GitHub Actions
-
-**JWT / OAuth (65%)**
-- Implementación de sistemas de autenticación seguros
-- Manejo de tokens de acceso y refresh tokens
-- Integración de OAuth 2.0 con proveedores externos
-- Seguridad de APIs y protección de rutas
-
 <div align="center">
 
 ### 🎯 Enfoque Actual
