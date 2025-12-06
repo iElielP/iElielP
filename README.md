@@ -4,11 +4,11 @@
 
 <br>
 
-### 💻 Especializado en JavaScript • TypeScript • React • Next.js • Laravel • C# • SQL
+### Especializado en JavaScript • TypeScript • React • Next.js • Laravel • C# • SQL
 
 <br>
 
-[![Location](https://img.shields.io/badge/📍_Buenos_Aires,_Argentina-181717?style=for-the-badge)](https://www.google.com/maps/place/Buenos+Aires)
+[![Location](https://img.shields.io/badge/Buenos_Aires,_Argentina-181717?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Buenos+Aires)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandonpared)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iElielP)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliel.bep@gmail.com)
@@ -17,7 +17,7 @@
 
 <br>
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 
 ```typescript
 const developer = {
@@ -38,7 +38,7 @@ Destaco por mi pensamiento analítico, capacidad de resolución de problemas té
 
 ---
 
-## 🎓 Formación Académica
+## Formación Académica
 
 <div align="center">
 
@@ -48,16 +48,16 @@ Destaco por mi pensamiento analítico, capacidad de resolución de problemas té
 
 ### Universidad Tecnológica Nacional (UTN)
 **Tecnicatura Universitaria en Programación**  
-📅 En curso  
-📚 Desarrollo de software, POO, bases de datos, arquitectura web
+`En curso`  
+Desarrollo de software, POO, bases de datos, arquitectura web
 
 </td>
 <td width="50%" valign="top">
 
 ### EEST N°5
 **Tecnicatura en Informática Personal y Profesional**  
-✅ Finalizado  
-📚 Informática, lógica de programación, diseño de sistemas
+`Finalizado`  
+Informática, lógica de programación, diseño de sistemas
 
 </td>
 </tr>
@@ -65,7 +65,7 @@ Destaco por mi pensamiento analítico, capacidad de resolución de problemas té
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
 <div align="center">
 
@@ -104,7 +104,7 @@ Destaco por mi pensamiento analítico, capacidad de resolución de problemas té
 
 ---
 
-## 💼 Competencias Técnicas
+## Competencias Técnicas
 
 <div align="center">
 
@@ -112,13 +112,13 @@ Destaco por mi pensamiento analítico, capacidad de resolución de problemas té
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 Frontend
+### Frontend
 - React & Next.js
 - TypeScript avanzado
 - Responsive Design
 - Componentización
 
-### 🗄️ Backend
+### Backend
 - Laravel (PHP)
 - .NET / C#
 - APIs REST
@@ -127,13 +127,13 @@ Destaco por mi pensamiento analítico, capacidad de resolución de problemas té
 </td>
 <td width="50%" valign="top">
 
-### 💾 Bases de Datos
+### Bases de Datos
 - MySQL
 - SQL Server
 - Oracle PL/SQL
 - Diseño Relacional
 
-### 🏗️ Arquitectura & Prácticas
+### Arquitectura & Prácticas
 - Clean Code
 - Patrones de Diseño
 - MVC Architecture
@@ -147,7 +147,7 @@ Destaco por mi pensamiento analítico, capacidad de resolución de problemas té
 
 ---
 
-**🎯 Áreas de experiencia:**
+## Áreas de Experiencia
 
 - Desarrollo de aplicaciones web full stack con integración completa frontend-backend
 - Diseño e implementación de APIs REST con validaciones y manejo de errores
@@ -158,11 +158,11 @@ Destaco por mi pensamiento analítico, capacidad de resolución de problemas té
 
 ---
 
-## 📈 Roadmap de Aprendizaje
+## Roadmap de Aprendizaje
+
+### Tecnologías en Desarrollo
 
 <div align="center">
-
-### 🎯 Tecnologías en Desarrollo
 
 | Tecnología | Nivel |
 |:-----------|:-----:|
@@ -177,19 +177,13 @@ Destaco por mi pensamiento analítico, capacidad de resolución de problemas té
 
 </div>
 
----
-
-<div align="center">
-
-### 🎯 Enfoque Actual
+### Enfoque Actual
 
 **Node.js & Testing** • **API Security** • **DevOps & CI/CD**
 
-</div>
-
 ---
 
-## 📬 Contacto
+## Contacto
 
 <div align="center">
 
@@ -205,7 +199,7 @@ Destaco por mi pensamiento analítico, capacidad de resolución de problemas té
 
 <div align="center">
 
-### 💡 "Código limpio, soluciones escalables, crecimiento constante."
+### "Código limpio, soluciones escalables, crecimiento constante."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00A0DC&height=120&section=footer" />
 
