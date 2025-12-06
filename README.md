@@ -8,23 +8,10 @@
 
 <br>
 
-<table align="center">
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Buenos_Aires,_Argentina-E4405F?style=for-the-badge&logoColor=white" alt="Location"/>
-</td>
-<td align="center" width="33%">
-<a href="https://www.linkedin.com/in/brandonpared">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-</td>
-<td align="center" width="33%">
-<a href="https://github.com/iElielP">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-</td>
-</tr>
-</table>
+**Buenos Aires, Argentina** 🇦🇷
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/brandonpared)](https://www.linkedin.com/in/brandonpared)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/iElielP)](https://github.com/iElielP)
 
 </div>
 
