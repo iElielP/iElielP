@@ -103,8 +103,11 @@ Informática, lógica de programación, diseño de sistemas
 </div>
 
 ---
+<div align="left">
 
 ## Competencias Técnicas
+
+</div>
 
 <div align="center">
 
@@ -146,10 +149,9 @@ Informática, lógica de programación, diseño de sistemas
 </div>
 
 ---
+<div align="left">
 
 ## Áreas de Experiencia
-
-<div align="left">
 
 - Desarrollo de aplicaciones web full stack con integración completa frontend-backend
 - Diseño e implementación de APIs REST con validaciones y manejo de errores
