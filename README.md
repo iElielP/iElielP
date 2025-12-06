@@ -149,12 +149,16 @@ Informática, lógica de programación, diseño de sistemas
 
 ## Áreas de Experiencia
 
+<div align="left">
+
 - Desarrollo de aplicaciones web full stack con integración completa frontend-backend
 - Diseño e implementación de APIs REST con validaciones y manejo de errores
 - Modelado y gestión de bases de datos relacionales
 - Implementación de lógica de negocio y reglas de validación
 - Estructuración de proyectos bajo patrones profesionales
 - Control de versiones y colaboración con Git/GitHub
+
+</div>
 
 ---
 
