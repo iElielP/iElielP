@@ -145,11 +145,7 @@ Destaco por mi pensamiento analítico, capacidad de resolución de problemas té
 
 </div>
 
-<div align="center">
-
 **🎯 Áreas de experiencia:**
-
-</div>
 
 - Desarrollo de aplicaciones web full stack con integración completa frontend-backend
 - Diseño e implementación de APIs REST con validaciones y manejo de errores
@@ -176,6 +172,34 @@ Destaco por mi pensamiento analítico, capacidad de resolución de problemas té
 | ![Architecture](https://img.shields.io/badge/Clean_Architecture-4A90E2?style=for-the-badge) | ![55%](https://img.shields.io/badge/55%25-Intermedio-FFA500?style=flat-square) |
 | ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) | ![40%](https://img.shields.io/badge/40%25-Básico-FF6B6B?style=flat-square) |
 | ![Microservices](https://img.shields.io/badge/Microservicios-FF6B6B?style=for-the-badge) | ![30%](https://img.shields.io/badge/30%25-Básico-FF6B6B?style=flat-square) |
+
+</div>
+
+### 📝 Aprendizajes y Avances Recientes
+
+**Node.js + Express (90%)**
+- Desarrollo de APIs RESTful con arquitectura escalable
+- Implementación de middleware personalizados y manejo de errores
+- Integración con bases de datos SQL y MongoDB
+- Autenticación y autorización con JWT
+
+**Next.js Advanced (80%)**
+- Server-Side Rendering (SSR) y Static Site Generation (SSG)
+- API Routes y optimización de rendimiento
+- Integración con headless CMS y servicios externos
+- Deployment en Vercel con CI/CD
+
+**Docker / CI-CD (75%)**
+- Containerización de aplicaciones full stack
+- Configuración de Docker Compose para entornos multi-servicio
+- Implementación de pipelines de integración continua
+- Automatización de deploys con GitHub Actions
+
+**JWT / OAuth (65%)**
+- Implementación de sistemas de autenticación seguros
+- Manejo de tokens de acceso y refresh tokens
+- Integración de OAuth 2.0 con proveedores externos
+- Seguridad de APIs y protección de rutas
 
 <div align="center">
 
