@@ -113,31 +113,31 @@ Destaco por mi pensamiento analítico, capacidad de resolución de problemas té
 <td width="50%" valign="top">
 
 ### 🎨 Frontend
-- ⚛️ React & Next.js
-- 📘 TypeScript avanzado
-- 🎯 Responsive Design
-- 🧩 Componentización
+- React & Next.js
+- TypeScript avanzado
+- Responsive Design
+- Componentización
 
 ### 🗄️ Backend
-- 🟦 Laravel (PHP)
-- 🟪 .NET / C#
-- 🔌 APIs REST
-- ✅ Validaciones & Lógica de Negocio
+- Laravel (PHP)
+- .NET / C#
+- APIs REST
+- Validaciones & Lógica de Negocio
 
 </td>
 <td width="50%" valign="top">
 
 ### 💾 Bases de Datos
-- 🐬 MySQL
-- 🔷 SQL Server
-- 🔶 Oracle PL/SQL
-- 📊 Diseño Relacional
+- MySQL
+- SQL Server
+- Oracle PL/SQL
+- Diseño Relacional
 
 ### 🏗️ Arquitectura & Prácticas
-- 🧼 Clean Code
-- 🎨 Patrones de Diseño
-- 📐 MVC Architecture
-- 📝 Documentación Técnica
+- Clean Code
+- Patrones de Diseño
+- MVC Architecture
+- Documentación Técnica
 
 </td>
 </tr>
