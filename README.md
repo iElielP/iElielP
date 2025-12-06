@@ -46,17 +46,27 @@ Destaco por mi pensamiento analítico, capacidad de resolución de problemas té
 <tr>
 <td width="50%" valign="top">
 
+<div align="right">
+  
+![En curso](https://img.shields.io/badge/En_curso-FFA500?style=flat-square&logoColor=white)
+
+</div>
+
 ### Universidad Tecnológica Nacional (UTN)
 **Tecnicatura Universitaria en Programación**  
-`En curso`  
 Desarrollo de software, POO, bases de datos, arquitectura web
 
 </td>
 <td width="50%" valign="top">
 
+<div align="right">
+  
+![Finalizado](https://img.shields.io/badge/Finalizado-28A745?style=flat-square&logoColor=white)
+
+</div>
+
 ### EEST N°5
 **Tecnicatura en Informática Personal y Profesional**  
-`Finalizado`  
 Informática, lógica de programación, diseño de sistemas
 
 </td>
