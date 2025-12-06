@@ -105,23 +105,23 @@ const skills = {
 <td width="50%" valign="top">
 
 **Backend & APIs**
-- ![Node.js](https://img.shields.io/badge/Node.js_+_Express-90%25-339933?style=flat-square&logo=node.js&logoColor=white)
-- ![JWT](https://img.shields.io/badge/JWT_/_OAuth-65%25-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-- ![GraphQL](https://img.shields.io/badge/GraphQL-40%25-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js_+_Express-90%25-339933?style=flat-square&logo=node.js&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT_/_OAuth-65%25-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-40%25-E10098?style=flat-square&logo=graphql&logoColor=white)
 
 **Testing & Quality**
-- ![Jest](https://img.shields.io/badge/Jest_/_PHPUnit-60%25-C21325?style=flat-square&logo=jest&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest_/_PHPUnit-60%25-C21325?style=flat-square&logo=jest&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
 **Arquitectura & DevOps**
-- ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-55%25-4A90E2?style=flat-square)
-- ![Docker](https://img.shields.io/badge/Docker_/_CI--CD-75%25-2496ED?style=flat-square&logo=docker&logoColor=white)
-- ![Microservices](https://img.shields.io/badge/Microservicios-30%25-FF6B6B?style=flat-square)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-55%25-4A90E2?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker_/_CI--CD-75%25-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservicios-30%25-FF6B6B?style=flat-square)
 
 **Frontend Avanzado**
-- ![Next.js](https://img.shields.io/badge/Next.js_Advanced-80%25-000000?style=flat-square&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js_Advanced-80%25-000000?style=flat-square&logo=next.js&logoColor=white)
 
 </td>
 </tr>
