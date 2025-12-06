@@ -145,7 +145,12 @@ Destaco por mi pensamiento analítico, capacidad de resolución de problemas té
 
 </div>
 
+<div align="center">
+
 **🎯 Áreas de experiencia:**
+
+</div>
+
 - Desarrollo de aplicaciones web full stack con integración completa frontend-backend
 - Diseño e implementación de APIs REST con validaciones y manejo de errores
 - Modelado y gestión de bases de datos relacionales
@@ -161,16 +166,16 @@ Destaco por mi pensamiento analítico, capacidad de resolución de problemas té
 
 ### 🎯 Tecnologías en Desarrollo
 
-<table align="center">
-|:-----------|:---------|:-----:|
-| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) **Node.js + Express** | ![](https://geps.dev/progress/90?dangerColor=339933&warningColor=339933&successColor=339933) | ![](https://img.shields.io/badge/Avanzado-339933?style=flat-square) |
-| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) **Next.js Advanced** | ![](https://geps.dev/progress/80?dangerColor=000000&warningColor=000000&successColor=000000) | ![](https://img.shields.io/badge/Avanzado-339933?style=flat-square) |
-| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) **Docker / CI-CD** | ![](https://geps.dev/progress/75?dangerColor=2496ED&warningColor=2496ED&successColor=2496ED) | ![](https://img.shields.io/badge/Intermedio-FFA500?style=flat-square) |
-| ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) **JWT / OAuth** | ![](https://geps.dev/progress/65?dangerColor=000000&warningColor=000000&successColor=000000) | ![](https://img.shields.io/badge/Intermedio-FFA500?style=flat-square) |
-| ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) **Jest / PHPUnit** | ![](https://geps.dev/progress/60?dangerColor=C21325&warningColor=C21325&successColor=C21325) | ![](https://img.shields.io/badge/Intermedio-FFA500?style=flat-square) |
-| ![Architecture](https://img.shields.io/badge/Clean_Architecture-4A90E2?style=for-the-badge) **Clean Architecture** | ![](https://geps.dev/progress/55?dangerColor=4A90E2&warningColor=4A90E2&successColor=4A90E2) | ![](https://img.shields.io/badge/Intermedio-FFA500?style=flat-square) |
-| ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) **GraphQL** | ![](https://geps.dev/progress/40?dangerColor=E10098&warningColor=E10098&successColor=E10098) | ![](https://img.shields.io/badge/Básico-FF6B6B?style=flat-square) |
-| ![Microservices](https://img.shields.io/badge/Microservicios-FF6B6B?style=for-the-badge) **Microservicios** | ![](https://geps.dev/progress/30?dangerColor=FF6B6B&warningColor=FF6B6B&successColor=FF6B6B) | ![](https://img.shields.io/badge/Básico-FF6B6B?style=flat-square) |
+| Tecnología | Nivel |
+|:-----------|:-----:|
+| ![Node.js](https://img.shields.io/badge/Node.js_+_Express-339933?style=for-the-badge&logo=node.js&logoColor=white) | ![90%](https://img.shields.io/badge/90%25-Avanzado-339933?style=flat-square) |
+| ![Next.js](https://img.shields.io/badge/Next.js_Advanced-000000?style=for-the-badge&logo=next.js&logoColor=white) | ![80%](https://img.shields.io/badge/80%25-Avanzado-339933?style=flat-square) |
+| ![Docker](https://img.shields.io/badge/Docker_/_CI--CD-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![75%](https://img.shields.io/badge/75%25-Intermedio-FFA500?style=flat-square) |
+| ![JWT](https://img.shields.io/badge/JWT_/_OAuth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) | ![65%](https://img.shields.io/badge/65%25-Intermedio-FFA500?style=flat-square) |
+| ![Jest](https://img.shields.io/badge/Jest_/_PHPUnit-C21325?style=for-the-badge&logo=jest&logoColor=white) | ![60%](https://img.shields.io/badge/60%25-Intermedio-FFA500?style=flat-square) |
+| ![Architecture](https://img.shields.io/badge/Clean_Architecture-4A90E2?style=for-the-badge) | ![55%](https://img.shields.io/badge/55%25-Intermedio-FFA500?style=flat-square) |
+| ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) | ![40%](https://img.shields.io/badge/40%25-Básico-FF6B6B?style=flat-square) |
+| ![Microservices](https://img.shields.io/badge/Microservicios-FF6B6B?style=for-the-badge) | ![30%](https://img.shields.io/badge/30%25-Básico-FF6B6B?style=flat-square) |
 
 <div align="center">
 
