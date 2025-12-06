@@ -96,43 +96,42 @@ const skills = {
 
 ## Roadmap de Aprendizaje
 
-<div align="center">
-
 ### Tecnologías en proceso de incorporación
 
 <table>
-<tr>
-<td width="50%" valign="top">
+<tr><td>
 
-**Backend & APIs**
-![Node.js](https://img.shields.io/badge/Node.js_+_Express-90%25-339933?style=flat-square&logo=node.js&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT_/_OAuth-65%25-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-40%25-E10098?style=flat-square&logo=graphql&logoColor=white)
+**Node.js + Express**  
+![90%](https://progress-bar.dev/90?title=Progreso&width=500&color=339933)
 
-**Testing & Quality**
-![Jest](https://img.shields.io/badge/Jest_/_PHPUnit-60%25-C21325?style=flat-square&logo=jest&logoColor=white)
+**Next.js Advanced**  
+![80%](https://progress-bar.dev/80?title=Progreso&width=500&color=000000)
 
-</td>
-<td width="50%" valign="top">
+**Docker / CI-CD**  
+![75%](https://progress-bar.dev/75?title=Progreso&width=500&color=2496ED)
 
-**Arquitectura & DevOps**
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-55%25-4A90E2?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker_/_CI--CD-75%25-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservicios-30%25-FF6B6B?style=flat-square)
+**JWT / OAuth**  
+![65%](https://progress-bar.dev/65?title=Progreso&width=500&color=000000)
 
-**Frontend Avanzado**
-![Next.js](https://img.shields.io/badge/Next.js_Advanced-80%25-000000?style=flat-square&logo=next.js&logoColor=white)
+**Jest / PHPUnit**  
+![60%](https://progress-bar.dev/60?title=Progreso&width=500&color=C21325)
 
-</td>
-</tr>
+**Clean Architecture**  
+![55%](https://progress-bar.dev/55?title=Progreso&width=500&color=4A90E2)
+
+**GraphQL**  
+![40%](https://progress-bar.dev/40?title=Progreso&width=500&color=E10098)
+
+**Microservicios**  
+![30%](https://progress-bar.dev/30?title=Progreso&width=500&color=FF6B6B)
+
+</td></tr>
 </table>
 
 **Enfoque actual:**
-> 🎯 Fortaleciendo habilidades en Node.js, testing automatizado y arquitecturas escalables  
-> 🔐 Profundizando en seguridad de APIs (JWT, OAuth)  
-> 🚀 Dominando procesos de CI/CD y containerización
-
-</div>
+- 🎯 Fortaleciendo habilidades en Node.js, testing automatizado y arquitecturas escalables
+- 🔐 Profundizando en seguridad de APIs con JWT y OAuth
+- 🚀 Dominando procesos de CI/CD y containerización con Docker
 
 ---
 
