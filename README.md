@@ -17,7 +17,7 @@
 
 <br>
 
-## Sobre mí
+## 👨‍💻 Sobre mí
 
 ```typescript
 const developer = {
@@ -38,7 +38,7 @@ Destaco por mi pensamiento analítico, capacidad de resolución de problemas té
 
 ---
 
-## Formación Académica
+## 🎓 Formación Académica
 
 <div align="center">
 
@@ -67,7 +67,7 @@ Informática, lógica de programación, diseño de sistemas
 
 <div align="left">
 
-## Stack Tecnológico
+## 🛠️ Stack Tecnológico
 
 </div>
 
@@ -110,7 +110,7 @@ Informática, lógica de programación, diseño de sistemas
 
 <div align="left">
 
-## Competencias Técnicas
+## 💼 Competencias Técnicas
 
 </div>
 
@@ -157,7 +157,7 @@ Informática, lógica de programación, diseño de sistemas
 
 <div align="left">
 
-## Áreas de Experiencia
+## 🎯 Áreas de Experiencia
 
 - Desarrollo de aplicaciones web full stack con integración completa frontend-backend
 - Diseño e implementación de APIs REST con validaciones y manejo de errores
@@ -172,7 +172,7 @@ Informática, lógica de programación, diseño de sistemas
 
 <div align="left">
 
-## Roadmap de Aprendizaje
+## 📈 Roadmap de Aprendizaje
 
 </div>
 
@@ -201,7 +201,7 @@ Informática, lógica de programación, diseño de sistemas
 
 <div align="left">
 
-## Contacto
+## 📬 Contacto
 
 </div>
 
@@ -219,7 +219,7 @@ Informática, lógica de programación, diseño de sistemas
 
 <div align="center">
 
-### "Código limpio, soluciones escalables, crecimiento constante."
+### 💡 "Código limpio, soluciones escalables, crecimiento constante."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00A0DC&height=120&section=footer" />
 
