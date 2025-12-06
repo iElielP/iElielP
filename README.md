@@ -40,6 +40,8 @@ Destaco por mi pensamiento analítico, capacidad de resolución de problemas té
 
 ## 🎓 Formación Académica
 
+<div align="center">
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -104,6 +106,8 @@ Destaco por mi pensamiento analítico, capacidad de resolución de problemas té
 
 ## 💼 Competencias Técnicas
 
+<div align="center">
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -139,6 +143,8 @@ Destaco por mi pensamiento analítico, capacidad de resolución de problemas té
 </tr>
 </table>
 
+</div>
+
 **🎯 Áreas de experiencia:**
 - Desarrollo de aplicaciones web full stack con integración completa frontend-backend
 - Diseño e implementación de APIs REST con validaciones y manejo de errores
@@ -155,9 +161,7 @@ Destaco por mi pensamiento analítico, capacidad de resolución de problemas té
 
 ### 🎯 Tecnologías en Desarrollo
 
-</div>
-
-| Tecnología | Progreso | Nivel |
+<table align="center">
 |:-----------|:---------|:-----:|
 | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) **Node.js + Express** | ![](https://geps.dev/progress/90?dangerColor=339933&warningColor=339933&successColor=339933) | ![](https://img.shields.io/badge/Avanzado-339933?style=flat-square) |
 | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) **Next.js Advanced** | ![](https://geps.dev/progress/80?dangerColor=000000&warningColor=000000&successColor=000000) | ![](https://img.shields.io/badge/Avanzado-339933?style=flat-square) |
@@ -178,48 +182,17 @@ Destaco por mi pensamiento analítico, capacidad de resolución de problemas té
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iElielP&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&count_private=true" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iElielP&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iElielP&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
-
-</div>
-
----
-
 ## 📬 Contacto
 
 <div align="center">
 
-Estoy abierto a oportunidades profesionales, colaboraciones técnicas y proyectos desafiantes.
+### Abierto a oportunidades profesionales y colaboraciones técnicas
+
+[![Email](https://img.shields.io/badge/Email-eliel.bep%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliel.bep@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-brandonpared-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandonpared)
+[![GitHub](https://img.shields.io/badge/GitHub-iElielP-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iElielP)
 
 </div>
-
-<br>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-<a href="mailto:eliel.bep@gmail.com">
-<img src="https://img.shields.io/badge/Email-eliel.bep%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-</td>
-<td align="center" width="33%">
-<a href="https://www.linkedin.com/in/brandonpared">
-<img src="https://img.shields.io/badge/LinkedIn-brandonpared-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-</td>
-<td align="center" width="33%">
-<a href="https://github.com/iElielP">
-<img src="https://img.shields.io/badge/GitHub-iElielP-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-</td>
-</tr>
-</table>
 
 ---
 
