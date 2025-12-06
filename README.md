@@ -98,21 +98,23 @@ const skills = {
 
 Tecnologías y conceptos en proceso de incorporación para fortalecer mi stack técnico:
 
-```mermaid
-graph LR
-    A[Backend Avanzado] --> B[Node.js + Express]
-    C[Testing] --> D[Jest / PHPUnit]
-    E[Arquitectura] --> F[Clean Architecture / Hexagonal]
-    G[Seguridad] --> H[JWT / OAuth / Validaciones Avanzadas]
-    I[DevOps] --> J[Docker / CI-CD / Deploy Automatizado]
+```javascript
+Node.js + Express        ██████████████████░░  90%
+Jest / PHPUnit           ████████████░░░░░░░░  60%
+Clean Architecture       ███████████░░░░░░░░░  55%
+Docker / CI-CD           ███████████████░░░░░  75%
+JWT / OAuth              █████████████░░░░░░░  65%
+Next.js Advanced         ████████████████░░░░  80%
+GraphQL                  ████████░░░░░░░░░░░░  40%
+Microservicios           ██████░░░░░░░░░░░░░░  30%
 ```
 
-**Objetivos técnicos:**
-- Profundizar en Node.js como alternativa backend
-- Implementar testing automatizado (unitario e integración)
-- Aplicar arquitecturas limpias y escalables
-- Fortalecer conocimientos en seguridad de APIs
-- Dominar procesos de deployment y containerización
+**En progreso:**
+- 🔹 Profundizando en Node.js y Express como alternativa backend
+- 🔹 Implementando testing automatizado (unitario e integración)
+- 🔹 Estudiando arquitecturas limpias y escalables
+- 🔹 Fortaleciendo conocimientos en seguridad de APIs
+- 🔹 Dominando procesos de deployment y containerización
 
 ---
 
