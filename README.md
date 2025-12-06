@@ -1,9 +1,16 @@
+<div align="center">
+
 # Brandon Eliel Pared
 
 **Desarrollador Full Stack** | JavaScript • TypeScript • React • Next.js • Laravel • C# • SQL
 
-📍 Buenos Aires, Argentina  
-🔗 [LinkedIn](https://www.linkedin.com/in/brandonpared) • [GitHub](https://github.com/iElielP)
+<br>
+
+![Location](https://img.shields.io/badge/📍_Buenos_Aires,_Argentina-181717?style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandonpared)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/iElielP)
+
+</div>
 
 ---
 
@@ -110,9 +117,14 @@ graph LR
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iElielP&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iElielP&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iElielP&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+</div>
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iElielP&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iElielP&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6)
 
 </div>
 
@@ -120,11 +132,17 @@ graph LR
 
 ## Contacto
 
+<div align="center">
+
 Estoy abierto a oportunidades profesionales, colaboraciones técnicas y proyectos desafiantes.
 
-📧 **Email:** eliel.bep@gmail.com 
-💼 **LinkedIn:** [linkedin.com/in/brandonpared](https://www.linkedin.com/in/brandonpared)  
-🐙 **GitHub:** [github.com/iElielP](https://github.com/iElielP)
+<br>
+
+[![Email](https://img.shields.io/badge/Email-eliel.bep%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliel.bep@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-brandonpared-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandonpared)
+[![GitHub](https://img.shields.io/badge/GitHub-iElielP-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iElielP)
+
+</div>
 
 ---
 
