@@ -65,7 +65,11 @@ Informática, lógica de programación, diseño de sistemas
 
 ---
 
+<div align="left">
+
 ## Stack Tecnológico
+
+</div>
 
 <div align="center">
 
@@ -103,6 +107,7 @@ Informática, lógica de programación, diseño de sistemas
 </div>
 
 ---
+
 <div align="left">
 
 ## Competencias Técnicas
@@ -149,6 +154,7 @@ Informática, lógica de programación, diseño de sistemas
 </div>
 
 ---
+
 <div align="left">
 
 ## Áreas de Experiencia
@@ -164,7 +170,11 @@ Informática, lógica de programación, diseño de sistemas
 
 ---
 
+<div align="left">
+
 ## Roadmap de Aprendizaje
+
+</div>
 
 ### Tecnologías en Desarrollo
 
@@ -189,7 +199,11 @@ Informática, lógica de programación, diseño de sistemas
 
 ---
 
+<div align="left">
+
 ## Contacto
+
+</div>
 
 <div align="center">
 
