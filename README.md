@@ -122,7 +122,7 @@ graph LR
 
 Estoy abierto a oportunidades profesionales, colaboraciones técnicas y proyectos desafiantes.
 
-📧 **Email:** Disponible bajo solicitud  
+📧 **Email:** eliel.bep@gmail.com 
 💼 **LinkedIn:** [linkedin.com/in/brandonpared](https://www.linkedin.com/in/brandonpared)  
 🐙 **GitHub:** [github.com/iElielP](https://github.com/iElielP)
 
