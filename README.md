@@ -35,8 +35,6 @@ Es la **versi&oacute;n m&aacute;s actual y legible** de mi perfil: experiencia, 
   <a href="https://brandon-pared.vercel.app" title="Abrir portafolio en vivo">
     <img alt="Vista previa del portafolio web BEP" src="https://brandon-pared.vercel.app/opengraph-image" width="560" />
   </a>
-  <br />
-  <sub><strong>Pr&oacute;ximo paso:</strong> hac&eacute; clic en la imagen para ver el recorrido completo en el sitio.</sub>
 </div>
 
 <div align="center">
