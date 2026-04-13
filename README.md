@@ -25,31 +25,37 @@ Desarrollador **backend y full stack** enfocado en construir **APIs REST robusta
 
 ---
 
-## Proyecto Destacado
+## Portafolio web (BEP)
 
-### Challenge T&eacute;cnico - Notes App
-Aplicaci&oacute;n web full stack para gesti&oacute;n de notas y tags, pensada para productividad personal. Destaca por su experiencia de uso moderna, filtros avanzados y una base t&eacute;cnica s&oacute;lida orientada a escalabilidad y mantenimiento.
+Si necesit&aacute;s **evaluar fit en pocos minutos**, este es el mejor punto de partida: un sitio vivo donde se ve **c&oacute;mo trabajo**, **qu&eacute; construyo** y **con qu&eacute; criterios** (calidad, claridad y foco en resultados). Va m&aacute;s all&aacute; de una lista de tecnolog&iacute;as: muestra **proyectos con contexto**, decisiones t&eacute;cnicas y el tipo de problemas que resuelvo en el d&iacute;a a d&iacute;a.
 
-[![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/iElielP/Challenge.git)
-[![Preview](https://img.shields.io/badge/Vista_previa-Login_/_App-0A66C2?style=for-the-badge)](https://github.com/iElielP/Challenge.git)
-
-**Stack clave**
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-
-**Lo m&aacute;s relevante**
-- Autenticaci&oacute;n JWT y manejo de sesiones.
-- CRUD de notas con archivado y filtrado m&uacute;ltiple por tags.
-- i18n (ES/EN), modo oscuro y dise&ntilde;o responsive.
-- Backend con capas y validaciones.
+Es la **versi&oacute;n m&aacute;s actual y legible** de mi perfil: experiencia, formaci&oacute;n y casos reales, con una experiencia de lectura cuidada en **cualquier dispositivo**, **tema claro u oscuro** e **idioma** a elecci&oacute;n. Ideal para reclutamiento, referencias r&aacute;pidas o para coordinar una charla con contexto compartido.
 
 <div align="center">
-  <img alt="Login/Register" src="https://raw.githubusercontent.com/iElielP/Challenge/main/login-register.png" width="49%" />
-  <img alt="Main App" src="https://raw.githubusercontent.com/iElielP/Challenge/main/main-app.png" width="49%" />
+  <a href="https://brandon-pared.vercel.app" title="Abrir portafolio en vivo">
+    <img alt="Vista previa del portafolio web BEP" src="https://brandon-pared.vercel.app/opengraph-image" width="560" />
+  </a>
+  <br />
+  <sub><strong>Pr&oacute;ximo paso:</strong> hac&eacute; clic en la imagen para ver el recorrido completo en el sitio.</sub>
 </div>
+
+<div align="center">
+
+[![Ver_portafolio_en_vivo](https://img.shields.io/badge/Ver_portafolio_en_vivo-brandon--pared.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://brandon-pared.vercel.app)
+
+</div>
+
+**Stack del sitio**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Qu&eacute; gan&aacute;s al abrirlo**
+- **Menos fricci&oacute;n:** entend&eacute;s alcance, rol y enfoque sin recorrer repos al azar.
+- **M&aacute;s se&ntilde;al, menos ruido:** casos explicados con impacto, no solo nombres de herramientas.
+- **Impresi&oacute;n profesional:** sitio r&aacute;pido, ordenado y pensado para decidir con claridad.
 
 ---
 
@@ -83,10 +89,11 @@ Aplicaci&oacute;n web full stack para gesti&oacute;n de notas y tags, pensada pa
 
 ## Formaci&oacute;n Acad&eacute;mica
 
-<div align="left">
-<table width="100%">
+<div align="center">
+
+<table align="center" width="92%" style="max-width: 880px;">
 <tr>
-<td width="80%" valign="top">
+<td width="80%" valign="top" align="left">
 
 ### Universidad Tecnol&oacute;gica Nacional (UTN)
 **T&iacute;tulo:** Tecnicatura Universitaria en Programaci&oacute;n  
@@ -103,7 +110,7 @@ Aplicaci&oacute;n web full stack para gesti&oacute;n de notas y tags, pensada pa
 </td>
 </tr>
 <tr>
-<td width="80%" valign="top">
+<td width="80%" valign="top" align="left">
 
 ### Escuela de Educaci&oacute;n Secundaria T&eacute;cnica N&deg;5
 **T&iacute;tulo:** Tecnicatura en Inform&aacute;tica Personal y Profesional  
@@ -141,6 +148,7 @@ Escribime y coordinamos una entrevista.
 [![Email](https://img.shields.io/badge/Email-eliel.bep%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliel.bep@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-brandonpared-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandonpared)
 [![GitHub](https://img.shields.io/badge/GitHub-iElielP-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iElielP)
+[![Portafolio](https://img.shields.io/badge/Portafolio-brandon--pared.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://brandon-pared.vercel.app)
 
 </div>
 
